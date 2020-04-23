@@ -15,7 +15,10 @@
 <!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
 <!--  -->
 <!-- For more information see http://www.alicebot.org -->
-<category><pattern>WHAT IS THE NAME OF MY BROS?</pattern>
+<category><pattern>BHAI KON HAI MERE</pattern>
 <template>Kushagra and Shubh</template>
+</category>
+<category><pattern>CHEETAH KON HAI</pattern>
+<template>Vatsal</template>
 </category>
 </aiml>
