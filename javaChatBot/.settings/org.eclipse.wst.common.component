@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="javaChatBot">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+                
+        <dependent-module archiveName="Ab.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//home/vatsal/Downloads/program-ab-0.0.4.3/lib/Ab.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+                
+        <property name="context-root" value="javaChatBot"/>
+                
+        <property name="java-output-path" value="/javaChatBot/target/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
