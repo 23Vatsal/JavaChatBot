@@ -1,5 +1,5 @@
-# JavaChatBot
-<p>This is a chat bot made using java and aiml.</p>
+## JavaChatBot
+<p>This is a chatbot made using java and aiml.</p>
 <p>The resource is taken from <b>ALICE BOT.</b></p>
 <br>
 <p>I have added various custom messages to it also.</p>
